@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🙋‍♂️ About me
+
+![profile view count](https://komarev.com/ghpvc/?username=/lengoclinh-dev0608)
+
+
 <!--
 **lengoclinh-dev0608/lengoclinh-dev0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
