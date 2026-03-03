@@ -2,7 +2,7 @@
 
 ## 🙋‍♂️ About me
 
-![profile view count](https://komarev.com/ghpvc/?username=/lengoclinh-dev0608)
+![profile view count](https://komarev.com/ghpvc/?username=lengoclinh-dev0608)
 
 
 <!--
